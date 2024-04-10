@@ -1,0 +1,44 @@
+{% extends 'layout.html' %}
+{% block head %}
+<link rel="stylesheet" href="{{url_for('static', filename='css/calculadora.css')}}" class="css">
+{% endblock %}
+
+{% block body %}
+<section class="container container-fluid">
+    <article id="calculadora">
+        <table class="buttons">
+            <tr>
+                <td>AC</td>
+                <td>±</td>
+                <td>%</td>
+                <td>÷</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>8</td>
+                <td>9</td>
+                <td>x</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>5</td>
+                <td>6</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td colspan="2">0</td>
+                <td></td>
+                <td>.</td>
+                <td>=</td>
+            </tr>
+        </table>
+    </article>
+</section>
+<script src="{{url_for('static', filename='js/calculadora.js')}}"></script>
+{% endblock %}

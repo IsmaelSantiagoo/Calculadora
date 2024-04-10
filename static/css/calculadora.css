@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+#calculadora {
+    position:relative;
+    width:300px;
+    height:500px;
+    background:#202B3C;
+}
