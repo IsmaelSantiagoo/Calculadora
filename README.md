@@ -1,4 +1,4 @@
-## 🤖 Meu nome é Ismael Santiago!
+## Meu nome é Ismael Santiago!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -11,8 +11,8 @@
 </p>
 
 <p align="left">
-  <a href="www.linkedin.com/in/ismael-santiago-6b26b5265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-santiago-6b26b5265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/ismael-santiago-6b26b5265?utm_source=share&utm_campaign=share_via&utm_content=profile" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-santiago-6b26b5265?utm_source=share&utm_campaign=share_via&utm_content=profile" alt="LinkedIn"/></a>
   <a href="https://wa.link/i4936v" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.link/i4936v" alt="WhatsApp"/></a>
   <a href="https://www.instagram.com/ismaellsantiagoo?igsh=MmU3bW8zeXZ1dW83" title="Instagram">
