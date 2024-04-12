@@ -1,9 +1,9 @@
 ## Meu nome é Ismael Santiago!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+<br>
 <p align="left">
-🔥 Sou estudante na área de Gestão da Tecnologia da Informação. Tenho algumas habilidades em desenvolver sites, api's e bot's de whatsapp.<br>🔭 Atualmente estou desenvolvendo um pequeno projeto de uma calculadora para começar a "popular" este meu perfil e aprimorar meus conhecimentos, sinta-se a vontade para analisar minhas habilidades e meus projetos.
+🔥 Sou estudante na área de Gestão da Tecnologia da Informação. Tenho algumas habilidades em desenvolver sites, api's e bot's de whatsapp.<br><br>🔭 Atualmente estou desenvolvendo um pequeno projeto de uma calculadora para começar a "popular" este meu perfil e aprimorar meus conhecimentos, sinta-se a vontade para analisar minhas habilidades e meus projetos.
 </p>
 
 <p align="left">
