@@ -1,10 +1,3 @@
-//selecionar todos os elementos "td"
-const td = document.getElementsByTagName("td")
-//selecionar elemento #expression
-const exp = document.getElementById("expression")
-//selecionar elemento #result
-const res = document.getElementById("result")
-
 // função para criar expressão//selecionar todos os elementos "td"
 const td = document.getElementsByTagName("td")
 //selecionar elemento #expression
