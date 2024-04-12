@@ -1,7 +1,9 @@
+##Meu nome é Ismael Santiago!
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-##Meu nome é Ismael Santiago,<br> sou estudante na área de Gestão da Tecnologia da Informação. Tenho algumas habilidades em desenvolver sites, api's e bot's de whatsapp.<br>🔭Atualmente estou desenvolvendo um pequeno projeto de uma calculadora para começar a "popular" este meu perfil e aprimorar meus conhecimentos, sinta-se a vontade para analisar minhas habilidades e meus projetos.
+<p align="left">
+🔥 Sou estudante na área de Gestão da Tecnologia da Informação. Tenho algumas habilidades em desenvolver sites, api's e bot's de whatsapp.<br>🔭Atualmente estou desenvolvendo um pequeno projeto de uma calculadora para começar a "popular" este meu perfil e aprimorar meus conhecimentos, sinta-se a vontade para analisar minhas habilidades e meus projetos.
 </p>
 
 <p align="left">
@@ -24,6 +26,7 @@
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ismaellsantiagoo?igsh=MmU3bW8zeXZ1dW83" alt="Instagram"/></a>
 </p>
+
 ---
 
 ## 🚀 Minhas Skills
@@ -41,4 +44,4 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaelsantiagoo&show_icons=true)
