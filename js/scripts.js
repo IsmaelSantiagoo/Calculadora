@@ -5,6 +5,11 @@ const exp = document.getElementById("expression")
 //selecionar elemento #result
 const res = document.getElementById("result")
 
+function make_expression(value) {
+
+    exp.innerText += value
+}
+
 //função para limpar dados
 function clear_expression() {
     exp.innerText = ""
